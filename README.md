@@ -37,7 +37,7 @@ This project includes a **ROS 2 package** that allows seamless integration with 
 ### Package Usage
 1. **Clone the Repository:**
    ```sh
-   https://github.com/Kapilmech2003/led_strip_cpp_code.git
+   git clone https://github.com/Kapilmech2003/led_strip_cpp_code.git
    cd led_strip_cpp_code
    ```
 2. **Build the Package:**
